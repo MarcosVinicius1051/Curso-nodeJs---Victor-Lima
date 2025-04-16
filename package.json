@@ -1,0 +1,15 @@
+{
+  "name": "aprendizagem-novamente",
+  "version": "1.0.0",
+  "description": "Aqui estarei guardando todos os arquivos dos meus estudos sobre node.js do curso do youtube Victor Lima: https://www.youtube.com/watch?v=LLqq6FemMNQ&list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
