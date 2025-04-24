@@ -1,10 +1,9 @@
 import express from "express";
-import { Sequelize } from "sequelize";
 import path from "path";
 import { fileURLToPath } from "url"; 
 import { dirname } from "path";
 import bodyParser from "body-parser";
-
+import Post from "./modules/Post.js"
 const Port = 8081;
 const app = express();
 const __filename = fileURLToPath(import.meta.url); 
